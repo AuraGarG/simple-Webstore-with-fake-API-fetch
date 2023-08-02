@@ -1,0 +1,15 @@
+/* Logo Barra de Navegador*/
+img{
+  max-width: 200px;
+  max-height: 200px;
+}
+/*Barra de Navegador*/
+.navbar-nav a{
+  font-size: 18px;
+}
+.card-img{
+  max-width: 2000px;
+  max-height: 550px;
+
+}
+
